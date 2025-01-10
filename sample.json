@@ -1,0 +1,16 @@
+[{
+    "name": "sri",
+    "age": 19,
+    "city": "kovai",
+    "amount": "10000"
+},{
+    "name": "dev",
+    "age": 20,
+    "city": "tripur",
+    "amount": "12000"
+},{
+   "name": "kavi",
+    "age": 21,
+    "city": "kovai",
+    "amount": "15000" 
+}]
