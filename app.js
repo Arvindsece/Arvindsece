@@ -7,7 +7,7 @@ app.use(express.json()); // Middleware
 
 // MongoDB Connection
 mongoose
-  .connect("mongodb+srv://arvindb2023cce:arvind@cce@cluster0.vppiw.mongodb.net//expense")
+  .connect("mongodb+srv://arvindb2023cce:arvindcce@cluster0.vppiw.mongodb.net/expense")
   .then(() => {
     console.log("MongoDB connected");
   })
